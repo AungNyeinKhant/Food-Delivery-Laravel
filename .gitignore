@@ -147,3 +147,8 @@ Homestead.yaml
 npm-debug.log
 yarn-error.log
 error_log
+
+# Additional sensitive files
+resources/lang/en/messages copy.php
+resources/lang/en/messages*.php
+resources/lang/*/messages*.php
